@@ -25,12 +25,10 @@ Let's explore the world of shapes and contours together? 🌿✨
 ## Let's get started
 
 #Step 1 - Install Matlab!
-
 Download and install Matlab Runtime 9.3 (only this version works):
 http://www.mathworks.com/products/compiler/mcr/index.html
 
 #Step 2 - Install DiaOutline
-
 Download and install DiaOutline:
 https://github.com/wishkerman/DiaOutline (follow the instructions here)
 
