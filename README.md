@@ -82,5 +82,4 @@ Step-by-step instructions:
 16. Quit – Here you finish and close the program.
 
 REFERENCE
-
 Wishkerman, A., & Hamilton, P. B. (2018). Shape outline extraction software (DiaOutline) for elliptic Fourier analysis application in morphometric studies. Applications in Plant Sciences, 6(12), e01204.
