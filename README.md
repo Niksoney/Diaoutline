@@ -1,7 +1,28 @@
-Niksoney Azevedo Mendonça/UFPE - Master in Plant Biology, currently a PhD student in the same program
+# DiaOutline: Contour Extraction for Morphometric Analysis
 
-Email: niksoneyazevedo2017@gmail.com
-WhatsApp: https://wa.me/55989912136367text=
+Contacts:
+Niksoney Azevedo Mendonça/UFPE - Master in Plant Biology, currently a PhD student in the same program <br>
+Email: niksoneyazevedo2017@gmail.com <br>
+WhatsApp: https://wa.me/55989912136367text= <br>
+
+Welcome to the DiaOutline repository, a powerful and intuitive tool for extracting contours from images, specially designed for morphometric studies in plant biology and related areas. This software, developed by Wishkerman & Hamilton (2018), uses advanced image processing techniques and Fourier analysis to extract precise contours of objects, such as leaves, fronds and other biological structures.
+
+Here, you will find a detailed step-by-step guide to installing and using DiaOutline, from setting up the environment to extracting and exporting data for statistical analysis. In addition, we provide download links for the necessary versions of the software and practical tips to optimize the processing of your images.
+
+Whether you are a researcher, student or enthusiast of plant biology, this repository was created to facilitate your work with shape and contour analysis, allowing you to focus on what really matters: science!
+
+What you will find here:
+
+1. Detailed instructions for installing Matlab Runtime and DiaOutline.
+2. A step-by-step guide to image processing and contour extraction.
+3. Tips for preparing images and optimizing results.
+4. Links to download the programs.
+
+Feel free to explore, contribute and use this material in your research. If you have any questions or suggestions, do not hesitate to contact us!
+
+Let's explore the world of shapes and contours together? 🌿✨
+
+## Let's get started
 
 #Step 1 - Install Matlab!
 
