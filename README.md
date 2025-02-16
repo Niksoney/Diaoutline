@@ -15,7 +15,7 @@ https://github.com/wishkerman/DiaOutline (follow the instructions here)
 
 If you prefer, I have the Matlab and DiaOutline versions on my OneDrive for installation:
 Matlab is on the first page when you open the link, and DiaOutline is located at: DiaOutline-master -> Application -> DiaOutlineV101 (remember to download the entire folder and unzip it on your computer).
-https://1drv.ms/f/slAtpCyyNefO09gdBDG-Nfu6We_T3ajQ?e=3OLUIj
+[https://1drv.ms/f/slAtpCyyNefO09gdBDG-Nfu6We_T3ajQ?e=3OLUIj](https://1drv.ms/f/s!AtpCyvNefO09gdBDG-Nfu6We_T3ajQ?e=ld3XSH)
 
 Note: To proceed to Step 3, you must have images in (preferably) .png format, and the images should have a clean background so that the Fourier coordinates are extracted exclusively from the images of interest and not from other artifacts. Remember that when mounting boards, it is interesting to make one per exsiccate.
 
