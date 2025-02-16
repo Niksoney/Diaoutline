@@ -3,8 +3,7 @@ Niksoney Azevedo Mendonça/UFPE - Master in Plant Biology, currently a PhD stude
 Email: niksoneyazevedo2017@gmail.com
 WhatsApp: https://wa.me/55989912136367text=
 
-#Step 1 - Install Matlab![Captura de tela 2025-02-16 125932](https://github.com/user-attachments/assets/e505d224-6cfb-40ea-8c13-dadbc8aec580)
-
+#Step 1 - Install Matlab!
 
 Download and install Matlab Runtime 9.3 (only this version works):
 http://www.mathworks.com/products/compiler/mcr/index.html
@@ -25,6 +24,7 @@ Gimp: https://www.gimp.org/ or Photoshop (paid version)
 
 #Step 3 - Use DiaOutline to extract outlines
 After processing the images and isolating the fronds of interest, you will be ready to use DiaOutline.
+![Captura de tela 2025-02-16 125932](https://github.com/user-attachments/assets/86166440-f378-41fb-bdb0-a2a29911508c)
 
 Step-by-step instructions:
 
